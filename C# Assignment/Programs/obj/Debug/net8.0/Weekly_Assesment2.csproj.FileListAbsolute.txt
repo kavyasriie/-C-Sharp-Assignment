@@ -1,0 +1,14 @@
+C:\Users\vaish\Desktop\C_Sharp\Weekly_Assesment2\Weekly_Assesment2\bin\Debug\net8.0\Weekly_Assesment2.exe
+C:\Users\vaish\Desktop\C_Sharp\Weekly_Assesment2\Weekly_Assesment2\bin\Debug\net8.0\Weekly_Assesment2.deps.json
+C:\Users\vaish\Desktop\C_Sharp\Weekly_Assesment2\Weekly_Assesment2\bin\Debug\net8.0\Weekly_Assesment2.runtimeconfig.json
+C:\Users\vaish\Desktop\C_Sharp\Weekly_Assesment2\Weekly_Assesment2\bin\Debug\net8.0\Weekly_Assesment2.dll
+C:\Users\vaish\Desktop\C_Sharp\Weekly_Assesment2\Weekly_Assesment2\bin\Debug\net8.0\Weekly_Assesment2.pdb
+C:\Users\vaish\Desktop\C_Sharp\Weekly_Assesment2\Weekly_Assesment2\obj\Debug\net8.0\Weekly_Assesment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaish\Desktop\C_Sharp\Weekly_Assesment2\Weekly_Assesment2\obj\Debug\net8.0\Weekly_Assesment2.AssemblyInfoInputs.cache
+C:\Users\vaish\Desktop\C_Sharp\Weekly_Assesment2\Weekly_Assesment2\obj\Debug\net8.0\Weekly_Assesment2.AssemblyInfo.cs
+C:\Users\vaish\Desktop\C_Sharp\Weekly_Assesment2\Weekly_Assesment2\obj\Debug\net8.0\Weekly_Assesment2.csproj.CoreCompileInputs.cache
+C:\Users\vaish\Desktop\C_Sharp\Weekly_Assesment2\Weekly_Assesment2\obj\Debug\net8.0\Weekly_Assesment2.dll
+C:\Users\vaish\Desktop\C_Sharp\Weekly_Assesment2\Weekly_Assesment2\obj\Debug\net8.0\refint\Weekly_Assesment2.dll
+C:\Users\vaish\Desktop\C_Sharp\Weekly_Assesment2\Weekly_Assesment2\obj\Debug\net8.0\Weekly_Assesment2.pdb
+C:\Users\vaish\Desktop\C_Sharp\Weekly_Assesment2\Weekly_Assesment2\obj\Debug\net8.0\Weekly_Assesment2.genruntimeconfig.cache
+C:\Users\vaish\Desktop\C_Sharp\Weekly_Assesment2\Weekly_Assesment2\obj\Debug\net8.0\ref\Weekly_Assesment2.dll
